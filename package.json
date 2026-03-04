@@ -1,0 +1,12 @@
+{
+  "name": "sse-example",
+  "version": "1.0.0",
+  "description": "SSE test app for Sevalla",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
